@@ -1373,7 +1373,7 @@ body {
   font-weight: 300;
 }
 .cid-qIg157Jfu4 .number-wrap {
-  color: #787324;
+  color: #000000;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1392,7 +1392,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #db48fd;
+  color: #ffffff;
 }
 .cid-qIg157Jfu4 .period {
   display: block;
@@ -1414,7 +1414,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #db48fd;
+  color: #ffffff;
 }
 .cid-qIg157Jfu4 .countdown-cont {
   max-width: 700px;
@@ -1843,11 +1843,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qIfZUCaGKm {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #000000;
 }
 .cid-qIfZUCaGKm .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-qIfZUCaGKm .mbr-figure {
   margin: 0 auto;
